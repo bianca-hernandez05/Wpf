@@ -1,0 +1,30 @@
+C:\Users\P1\Desktop\CasillasVerificacion\GroupBox\obj\Debug\GroupBox.csproj.AssemblyReference.cache
+C:\Users\P1\Desktop\CasillasVerificacion\GroupBox\obj\Debug\MainWindow.g.cs
+C:\Users\P1\Desktop\CasillasVerificacion\GroupBox\obj\Debug\App.g.cs
+C:\Users\P1\Desktop\CasillasVerificacion\GroupBox\obj\Debug\GroupBox_MarkupCompile.cache
+C:\Users\P1\Desktop\CasillasVerificacion\GroupBox\obj\Debug\GroupBox_MarkupCompile.lref
+C:\Users\P1\Desktop\CasillasVerificacion\GroupBox\bin\Debug\GroupBox.exe.config
+C:\Users\P1\Desktop\CasillasVerificacion\GroupBox\bin\Debug\GroupBox.exe
+C:\Users\P1\Desktop\CasillasVerificacion\GroupBox\bin\Debug\GroupBox.pdb
+C:\Users\P1\Desktop\CasillasVerificacion\GroupBox\obj\Debug\MainWindow.baml
+C:\Users\P1\Desktop\CasillasVerificacion\GroupBox\obj\Debug\GroupBox.g.resources
+C:\Users\P1\Desktop\CasillasVerificacion\GroupBox\obj\Debug\GroupBox.Properties.Resources.resources
+C:\Users\P1\Desktop\CasillasVerificacion\GroupBox\obj\Debug\GroupBox.csproj.GenerateResource.cache
+C:\Users\P1\Desktop\CasillasVerificacion\GroupBox\obj\Debug\GroupBox.csproj.CoreCompileInputs.cache
+C:\Users\P1\Desktop\CasillasVerificacion\GroupBox\obj\Debug\GroupBox.exe
+C:\Users\P1\Desktop\CasillasVerificacion\GroupBox\obj\Debug\GroupBox.pdb
+C:\Users\Gallo\OneDrive\Escritorio\CasillasVerificacion - copia\GroupBox\bin\Debug\GroupBox.exe.config
+C:\Users\Gallo\OneDrive\Escritorio\CasillasVerificacion - copia\GroupBox\bin\Debug\GroupBox.exe
+C:\Users\Gallo\OneDrive\Escritorio\CasillasVerificacion - copia\GroupBox\bin\Debug\GroupBox.pdb
+C:\Users\Gallo\OneDrive\Escritorio\CasillasVerificacion - copia\GroupBox\obj\Debug\GroupBox.csproj.AssemblyReference.cache
+C:\Users\Gallo\OneDrive\Escritorio\CasillasVerificacion - copia\GroupBox\obj\Debug\MainWindow.g.cs
+C:\Users\Gallo\OneDrive\Escritorio\CasillasVerificacion - copia\GroupBox\obj\Debug\App.g.cs
+C:\Users\Gallo\OneDrive\Escritorio\CasillasVerificacion - copia\GroupBox\obj\Debug\GroupBox_MarkupCompile.cache
+C:\Users\Gallo\OneDrive\Escritorio\CasillasVerificacion - copia\GroupBox\obj\Debug\GroupBox_MarkupCompile.lref
+C:\Users\Gallo\OneDrive\Escritorio\CasillasVerificacion - copia\GroupBox\obj\Debug\MainWindow.baml
+C:\Users\Gallo\OneDrive\Escritorio\CasillasVerificacion - copia\GroupBox\obj\Debug\GroupBox.g.resources
+C:\Users\Gallo\OneDrive\Escritorio\CasillasVerificacion - copia\GroupBox\obj\Debug\GroupBox.Properties.Resources.resources
+C:\Users\Gallo\OneDrive\Escritorio\CasillasVerificacion - copia\GroupBox\obj\Debug\GroupBox.csproj.GenerateResource.cache
+C:\Users\Gallo\OneDrive\Escritorio\CasillasVerificacion - copia\GroupBox\obj\Debug\GroupBox.csproj.CoreCompileInputs.cache
+C:\Users\Gallo\OneDrive\Escritorio\CasillasVerificacion - copia\GroupBox\obj\Debug\GroupBox.exe
+C:\Users\Gallo\OneDrive\Escritorio\CasillasVerificacion - copia\GroupBox\obj\Debug\GroupBox.pdb
